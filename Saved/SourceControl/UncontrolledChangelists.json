@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_Knife.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/BH/AT79YU71W0PKZS9KRN8ZWH.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_Zombie.uasset",
@@ -17,6 +16,8 @@
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/DV/IR4EA2UA9U7V49F03XQJGP.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_Interface.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_KnifePickup.uasset",
+				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/WeaponPickups/BP_PistolPickup.uasset",
+				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_Knife.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Icons/EKey.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"C:/Users/s258016/Documents/Unreal Projects/MH_GES_Assignment/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
